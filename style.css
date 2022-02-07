@@ -7,7 +7,7 @@ body{
 h1 { 
   color: #7A0016 ;
   border: 5px solid #FF4EB ;
-  height: 200px ;
+  font-size: 50px ;
 }
 p { 
   color: #7A0016 ;
@@ -17,5 +17,5 @@ p {
 title { 
   color: #7A0016 ;
   border: 10px solid #FF4EB ;
-  height: 200px ;
+ font-size: 50px ;
 }
