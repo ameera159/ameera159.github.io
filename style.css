@@ -7,12 +7,14 @@ body{
 }
 
 h1 { 
+  text-alg:center;
   color: #FFFFFF ;
   border: 5px solid #FF4EB ;
   font-size: 43px ;
   
 }
 p { 
+  text-align:center;
   color: #FFFFFF ;
   border: 5px solid #FF4EB ;
   font-size: 35px ;
